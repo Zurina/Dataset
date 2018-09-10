@@ -21,6 +21,6 @@ https://data.cdc.gov/api/views/w9j2-ggv5/rows.json?accessType=DOWNLOAD
 2. Who has had the lowest increase in life expectancy at birth from 1900-2015?
 3. How much has the gap changed between white male and black male from 1990-2015?
 4. What race and sex has had the biggest increase in life expectancy at birth from 1900-2015?
-5. Which index in the data has the highest life expectancy at birth? (Make a wild guess first)
+5. Who (race, sex, year) in the data has the highest life expectancy at birth? (Make a wild guess first)
 
 
