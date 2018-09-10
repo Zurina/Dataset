@@ -1,3 +1,5 @@
+Group: Foolish Supermarket
+Group members: Stanislav, Alexander, Mikkel, Mathias Bigler
 # Dataset
 Dataset Analysis Python
 
