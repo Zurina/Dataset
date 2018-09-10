@@ -13,4 +13,14 @@ Questions
 4. Which state has the most deaths caused by kidney disease in the year of 2005?
 5. Which state has had the biggest increase in the death of Alzheimers from 1999-2016?
 
+In case of duplicate
+
+https://data.cdc.gov/api/views/w9j2-ggv5/rows.json?accessType=DOWNLOAD
+
+1. Who has had the lowest life expectancy at birth?
+2. Who has had the lowest increase in life expectancy at birth from 1900-2015?
+3. How much has the gap changed between white male and black male from 1990-2015?
+4. What race and sex has had the biggest increase in life expectancy at birth from 1900-2015?
+5. Which index in the data has the highest life expectancy at birth? (Make a wild guess first)
+
 
