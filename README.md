@@ -5,7 +5,7 @@ Dataset Analysis Python
 
 This dataset is about the leading causes of deaths in The United States
 
-https://data.cdc.gov/api/views/bi63-dtpu/rows.json?accessType=DOWNLOAD
+https://data.cdc.gov/api/views/bi63-dtpu/rows.csv?accessType=DOWNLOAD
 
 Questions
 
